@@ -1,3 +1,3 @@
 ### Hi there 👋
 I am Santosh
-https://github.com/anuraghazra/github-readme-stats
+https://github.com/Santosh-sunkara?tab=repositories
