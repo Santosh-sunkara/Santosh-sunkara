@@ -10,8 +10,7 @@ YOLOv8 Dashcam Analyzer: Real-time object detection for dashcams.
 
 
 🧠 Skills & Technologies:
-Languages: Python, JavaScript, SQL, C++
-Frameworks/Tools: TensorFlow, Keras, Flask, Node.js, AWS
+Languages: Python, SQL, C++
 Databases: MySQL, MongoDB, PostgreSQL
 Tools: Git, Docker, Kubernetes, Jupyter, VS Code
 Other: Cybersecurity basics, Ethical Hacking, Cloud Computing ☁️
@@ -19,5 +18,7 @@ Other: Cybersecurity basics, Ethical Hacking, Cloud Computing ☁️
 
 🚀 Let’s Connect:
 GitHub-https://github.com/Santosh-sunkara
+
 LinkedIn-https://www.linkedin.com/in/shiva-santosh-2489bb25a/
+
 Portfolio-https://delightful-sprite-cc7809.netlify.app/
