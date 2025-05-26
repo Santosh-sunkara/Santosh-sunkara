@@ -40,10 +40,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Santosh-sunkara&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-sunkara&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://img.shields.io/badge/Most%20Used%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 </p>
 
----
 
 📫 **Let’s Connect!**
 
