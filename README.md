@@ -1,24 +1,55 @@
-Hi there, I'm Sunkara Shiva Santosh 👋
-💻 Computer Science & Engineering student at SRM University
-🌍 Passionate about AI/ML, Cybersecurity, and Cloud Computing
-🚀 Currently building AI-driven projects and exploring new technologies
+<h1 align="center">Hi there, I'm Sunkara Shiva Santosh 👋</h1>
+<h3 align="center">A Computer Science & Engineering Student | AI/ML Enthusiast | Cybersecurity Explorer | Cloud Learner ☁️</h3>
 
+---
 
-📚 My Current Projects:
-Language Translation Using AI: Translating languages with deep learning.
-YOLOv8 Dashcam Analyzer: Real-time object detection for dashcams.
+🌟 **About Me**  
+🎓 CSE Student at **SRM University**  
+💡 Passionate about **Artificial Intelligence**, **Cybersecurity**, and **Cloud Computing**  
+🚀 Currently exploring **Deep Learning**, **Ethical Hacking**, and **DevOps Tools**  
+📈 Always curious to learn new technologies and build innovative solutions  
 
+---
 
-🧠 Skills & Technologies:
-Languages: Python, SQL, C++
-Databases: MySQL, MongoDB, PostgreSQL
-Tools: Git, Docker, Kubernetes, Jupyter, VS Code
-Other: Cybersecurity basics, Ethical Hacking, Cloud Computing ☁️
+🛠️ **Skills & Technologies**
 
+- 💻 **Languages**: Python, C++, SQL  
+- 🗃️ **Databases**: MySQL, MongoDB, PostgreSQL  
+- ⚙️ **Tools & Platforms**: Git, Docker, Kubernetes, Jupyter, VS Code  
+- 🔐 **Other**: Cybersecurity Basics, Ethical Hacking, Cloud (AWS, GCP)
 
-🚀 Let’s Connect:
-GitHub-https://github.com/Santosh-sunkara
+---
 
-LinkedIn-https://www.linkedin.com/in/shiva-santosh-2489bb25a/
+📚 **Featured Projects**
 
-Portfolio-https://delightful-sprite-cc7809.netlify.app/
+- 🔤 **Language Translation Using AI**  
+  _Translating languages using deep learning models for real-time multilingual interaction._
+
+- 🚘 **YOLOv8 Dashcam Analyzer**  
+  _Real-time multiple object detection and classification from dashcam videos using YOLOv8._
+
+- 🌐 **PG Management System**  
+  _A subscription-based management website for PG owners with action controls like Extend, Revoke, Hold._
+
+- ✈️ **Air Route Optimiser**  
+  _Optimizing air traffic paths through data visualization and geospatial analysis using Python._
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santosh-sunkara&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-sunkara&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+📫 **Let’s Connect!**
+
+- 🌐 **Portfolio**: [My Portfolio](https://delightful-sprite-cc7809.netlify.app/)  
+- 💼 **LinkedIn**: [Shiva Santosh](https://www.linkedin.com/in/shiva-santosh-2489bb25a/)  
+- 🧑‍💻 **GitHub**: [@Santosh-sunkara](https://github.com/Santosh-sunkara)  
+
+---
+
