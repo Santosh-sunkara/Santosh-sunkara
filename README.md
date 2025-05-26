@@ -36,6 +36,17 @@
 
 ---
 
+🏅 **Achievements & Certifications**
+
+- ✅ **[ServiceNow Certified Application Developer](https://drive.google.com/file/d/1X8iHOhjLdPcIlAOHNNxDau372yMOQYhA/view?usp=sharing)**  
+  *Credential verifies expertise in ServiceNow app development.*
+
+- 📄 **[Research Paper Published Certificate](https://drive.google.com/file/d/18s9M4jGLMF3R4yCchVtRvWMiZ6NZdnUa/view?usp=sharing)**  
+  *“Optimizing Air Traffic Routes Through Data Visualization and Geospatial Analysis”*  
+  *Published under [insert journal/conference name if available]*
+
+---
+
 📊 **GitHub Stats**
 
 <p align="center">
@@ -44,6 +55,7 @@
   <img src="https://img.shields.io/badge/Most%20Used%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 </p>
 
+---
 
 📫 **Let’s Connect!**
 
@@ -53,3 +65,4 @@
 
 ---
 
+⭐ _“Code is like humor. When you have to explain it, it’s bad.”_ 
