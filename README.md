@@ -36,14 +36,19 @@
 
 ---
 
+
 🏅 **Achievements & Certifications**
 
 - ✅ **[ServiceNow Certified Application Developer](https://drive.google.com/file/d/1X8iHOhjLdPcIlAOHNNxDau372yMOQYhA/view?usp=sharing)**  
   *Credential verifies expertise in ServiceNow app development.*
 
 - 📄 **[Research Paper Published Certificate](https://drive.google.com/file/d/18s9M4jGLMF3R4yCchVtRvWMiZ6NZdnUa/view?usp=sharing)**  
-  *“Optimizing Air Traffic Routes Through Data Visualization and Geospatial Analysis”*  
-  *Published under [insert journal/conference name if available]*
+  *Published paper on “**Object Detection for Vehicle Dashcams**” highlighting real-time object detection using YOLOv8.*  
+  *Presented/published under [insert journal/conference name if available]*
+
+- 🎓 **[Internship Certificate - AWS Cloud & DevOps](https://drive.google.com/file/d/1MMG9FS7ZZEO0OzjSnr6wilRhIDDkNxUX/view?usp=sharing)**  
+  *Completed an internship focused on AWS Cloud technologies, DevOps tools, and real-world deployment strategies.*
+
 
 ---
 
