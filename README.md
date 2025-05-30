@@ -64,7 +64,7 @@
 
 📫 **Let’s Connect!**
 
-- 🌐 **Portfolio**: [My Portfolio](https://delightful-sprite-cc7809.netlify.app/)  
+- 🌐 **Portfolio**: [My Portfolio](https://wondrous-pudding-764268.netlify.app/)  
 - 💼 **LinkedIn**: [Shiva Santosh](https://www.linkedin.com/in/shiva-santosh-2489bb25a/)  
 - 🧑‍💻 **GitHub**: [@Santosh-sunkara](https://github.com/Santosh-sunkara)  
 
