@@ -46,7 +46,7 @@
   *Published paper on “**Object Detection for Vehicle Dashcams**” highlighting real-time object detection using YOLOv8.*  
   *Presented/published under [insert journal/conference name if available]*
 
-- 🎓 **[Internship Certificate - AWS Cloud & DevOps](https://drive.google.com/file/d/1MMG9FS7ZZEO0OzjSnr6wilRhIDDkNxUX/view?usp=sharing)**  
+- 🎓 **[Internship Certificate - AWS Cloud & DevOps](https://drive.google.com/file/d/1vHmNIzl22InVywe1eVgjypVsxVIW73GY/view?usp=sharing)**  
   *Completed an internship focused on AWS Cloud technologies, DevOps tools, and real-world deployment strategies.*
 
 
